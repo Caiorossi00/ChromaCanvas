@@ -1,1 +1,1 @@
-<a href="https://caiorossi00.github.io/ChromaCanvas/>ChromaCanvas</a>
+<a href="https://caiorossi00.github.io/ChromaCanvas/">ChromaCanvas</a>
